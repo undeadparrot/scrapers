@@ -6,6 +6,8 @@ Exclusive Books is an Angular app, and some custom components like
 Because it's an SPA rendered using JavaScript on the client side, we cannot
 scrape it without something like Selenium or Puppeteer.
 
+TODO: try to make this work with https://github.com/clemfromspace/scrapy-selenium
+
 """
 import scrapy
 
